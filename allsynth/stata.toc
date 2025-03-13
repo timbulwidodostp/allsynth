@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p allsynth Automate estimation of (i) bias-corrected synthetic control gaps ("treatment effects") Use allsynth With STATA 18
