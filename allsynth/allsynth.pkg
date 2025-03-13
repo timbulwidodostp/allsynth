@@ -1,5 +1,18 @@
-d 'DEA': Data envelopment analysis
+d 'allsynth': Automate estimation of (i) bias-corrected synthetic control gaps ("treatment effects") Use allsynth With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f allsynth.ado
+f allsynth.sthlp
+f distinct.ado
+f distinct.hlp
+f elasticregress.ado
+f elasticregress.ihlp
+f elasticregress.sthlp
+f lassoregress.ado
+f lassoregress.sthlp
+f lsynth_mata_subr.mlib
+f ridgeregress.ado
+f ridgeregress.sthlp
+f synth.ado
+f synth.sthlp
+f synth_ll.ado
+f synthopt.plugin
