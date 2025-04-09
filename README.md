@@ -1,6 +1,8 @@
 # allsynth
 Automate estimation of (i) bias-corrected synthetic control gaps ("treatment effects") Use allsynth With STATA 18
 
+https://www.youtube.com/watch?v=8XAjE7OQZF4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
